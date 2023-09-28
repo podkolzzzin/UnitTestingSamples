@@ -28,4 +28,10 @@
       <ProjectReference Include="..\ObsoleteFilesApp\ObsoleteFilesApp.csproj" />
     </ItemGroup>
 
+
+
+
+
+
+
 </Project>
